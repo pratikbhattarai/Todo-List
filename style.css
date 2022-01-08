@@ -1,0 +1,75 @@
+
+
+
+form{
+
+    background-color:aqua;
+    height: 500px;
+    width: 400px;
+    position: relative;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+    
+}
+
+body{
+    background-color: red;
+}
+
+
+    header{
+    color:blue;
+    font-weight:600;
+    font-size: 2em;
+    display: inline;
+    margin-left: 70px;
+    background-color: aqua;
+    border-radius: 100px;
+    
+}
+
+input{
+    height: 30px;
+    width: 300px;  
+}
+
+button{
+    width: 307px;
+}
+
+.class{
+    margin-left: 40px;
+    margin-top: 50px;
+}
+
+#inputField{
+    position: absolute;
+    height: 50px;
+}
+
+#btn{
+    position: relative;
+    top:60px;
+    left: 55px;
+    color:white;  
+    width: 175px;
+    height: 50px;
+
+}
+
+
+
+input {
+    color: black;
+    caret-color:black;
+}
+
+li{
+    position:relative;margin:10px;
+    height:40px;top:90px;
+    background:#1bb21b;
+    font-size: larger;color: white;
+    list-style-image: url("i.png");
+    border-radius: 2px;
+}
